@@ -8,4 +8,4 @@ tags = ['general']
 ## Helloworld
 
 This is my attempt  
-To Document all my failed/Succeded projects
+To Document all my projects and Learnings
